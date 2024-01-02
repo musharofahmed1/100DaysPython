@@ -1,1 +1,5 @@
-print("Hello World")
+#print("Hello World")
+#print("Hello Word\nHello BD\n")
+#print("Hello "+"Musa")
+#print('"Hello World"')
+print("Hello"+ input("Whats your name: "))
